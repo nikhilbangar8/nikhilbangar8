@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Nikhil Bangar currently working at Sibros as Site Reliability Engineer. 
--  I’m interested in cloud technologies and serverless application Developement .
 
 You can reach me on nikhilbangar8@gmail.com. Drop me a mail and I will respond you back ASAP. 
 
