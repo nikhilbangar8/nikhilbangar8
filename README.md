@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nikhil Bangar currently working at Sibros as Site Reliability Engineer. 
+- 👋 Hi, I’m Nikhil Bangar currently working at Concentric AI as Devops Engineer. 
 
 You can reach me on nikhilbangar8@gmail.com. Drop me a mail and I will respond you back ASAP. 
 
